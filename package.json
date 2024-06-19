@@ -1,0 +1,14 @@
+{
+  "name": "custom-event-emitter",
+  "version": "1.0.0",
+  "description": "simple event emitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "event-emitter"
+  ],
+  "author": "Tarun",
+  "license": "ISC"
+}
