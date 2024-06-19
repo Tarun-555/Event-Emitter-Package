@@ -22,4 +22,6 @@ class CustomEventEmiiter{
             console.error("Event doesn't exist to release!!")
         }
     }
-}
+};
+
+module.exports = CustomEventEmiiter;
