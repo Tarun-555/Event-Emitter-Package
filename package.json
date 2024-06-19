@@ -10,5 +10,8 @@
     "event-emitter"
   ],
   "author": "Tarun",
+  "repository": {
+    "url": "https://github.com/Tarun-555/Event-Emitter-Package"
+  },
   "license": "ISC"
 }
